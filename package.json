@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "description": "NashDev Jobs API + Slack Bot",
   "engines": {
-    "node": "8.9.3"
+    "node": "10"
   },
   "scripts": {
     "postinstall": "npm run build",
