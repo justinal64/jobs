@@ -92,7 +92,7 @@
     "prop-types": "^15.6.0",
     "rc-pagination": "^1.12.9",
     "react": "^16.4.2",
-    "react-dom": "^16.0.0",
+    "react-dom": "^16.4.2",
     "react-hot-loader": "4.0.0-rc.0",
     "react-markdown-renderer": "^1.4.0",
     "react-redux": "^5.0.6",
